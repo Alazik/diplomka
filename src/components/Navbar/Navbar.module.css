@@ -6,6 +6,8 @@
     margin-top: 10px;
     margin-right: 10px;
     text-align: center;
+    min-height: 700px;
+    max-height: 700px;
   }
 
   .item {

@@ -7,8 +7,8 @@
     padding: 15px;
 }
 
-.dialogsItem dialog {
-
+.dialog {
+    
 }
 
 .dialogsItem .active {
@@ -19,6 +19,6 @@
     padding: 15px;
 }
 
-.messages message {
+.message {
 
 }
