@@ -49,3 +49,13 @@
     background-color: white; /* Цвет подчеркивания при появлении линии*/
     transition: width 0.5s;  /* Время эффекта */
   }
+
+  .item > a.activeLink {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 33px;
+    position: relative;
+    color: yellow;
+  }
